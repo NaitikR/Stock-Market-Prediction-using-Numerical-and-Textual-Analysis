@@ -1,5 +1,5 @@
 # Stock-Market-Prediction-using-Numerical-and-Textual-Analysis
-This project is as a task for the GRIP Data Science Internship at the Sparks Foundation
+This project is a task for the GRIP Data Science Internship at the Sparks Foundation
 
 
 Task 7: Stock Market Prediction using Numerical and Textual Analysis 
